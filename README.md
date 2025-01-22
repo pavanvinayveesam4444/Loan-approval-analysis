@@ -1,4 +1,4 @@
-                                                              Loan Approval Analysis
+                                              Loan Approval Analysis
 Streamlining the Loan Approval Process with Machine Learning
 
 ## Description
